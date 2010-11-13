@@ -3,6 +3,7 @@
 bin
 dist
 build
+build.xml
 .gradle
 *.swp
 *junit*
